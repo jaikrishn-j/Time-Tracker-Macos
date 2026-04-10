@@ -14,13 +14,6 @@ A simple and lightweight time tracking app for macOS to help you stay productive
 
 ---
 
-## 🖼 Screenshots
-
-<!-- Add screenshots here -->
-
-<!-- Example:
-![Screenshot](./screenshots/app.png)
--->
 
 ---
 
@@ -43,22 +36,12 @@ Open the project in Xcode and run the app.
 
 ## 🛠 Tech Stack
 
-* Swift / SwiftUI (assumed)
+* Swift / SwiftUI 
 * macOS native APIs
 
 ---
 
-## 📂 Project Structure
 
-```
-Time-Tracker-Macos/
-├── Source/
-├── Resources/
-├── Assets/
-└── README.md
-```
-
----
 
 ## 🤝 Contributing
 
